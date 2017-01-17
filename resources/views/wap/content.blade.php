@@ -27,6 +27,7 @@
             .content {width: 100%;}
             .content .c_title {width: 100%; background: #fff; font-size: 0.5rem;}
             .content .c_title p {padding: 0.3rem 1.3333rem;}
+            .content .c_box {margin-left: 2rem; margin-right: 2rem;}
             .content img {width: 100%; height: auto;}
             /*底部分享*/
             .fenxiang {height: 3rem; padding-top: 1rem;}
