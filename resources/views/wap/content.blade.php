@@ -24,11 +24,11 @@
             .b_header {position: relative; height: 4rem; line-height: 4rem; overflow: hidden;}
             .b_header a img {width: 8rem; height: 4rem;}
             .header_r {width: 100%; height: 4rem; overflow: hidden;  position: absolute;  top: 0;  left: 8rem; background: #fff;  text-align: center;}
-			/*内容区*/
-			.content {width: 100%;}
+	    /*内容区*/
+	    .content {width: 100%;}
             .content .c_title {width: 100%; background: #fff; font-size: 0.5rem;}
             .content .c_title p {padding: 0.3rem 1.3333rem;}
-			.content .c_box {margin-left: 2rem; margin-right: 2rem;}
+	    .content .c_box {margin-left: 0.7rem; margin-right: 0.7rem;}
             .content img {width: 100%; height: auto;}
             /*底部分享*/
             .fenxiang {height: 3rem; padding-top: 1rem;}
